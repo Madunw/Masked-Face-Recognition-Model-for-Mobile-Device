@@ -5,4 +5,4 @@
  *  Training Dataset:  CASIA-WebFace
  *  LFW(masked)-Accuracy: 0.9303
 ## Network Architecture
-  <img src="https://user-images.githubusercontent.com/84227180/153176591-d5694abc-e362-4173-846a-99ee2414c81f.png" width="360px">
+  <img src="https://user-images.githubusercontent.com/84227180/153176591-d5694abc-e362-4173-846a-99ee2414c81f.png" width="330px">
